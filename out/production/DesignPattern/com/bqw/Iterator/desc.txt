@@ -1,0 +1,2 @@
+聚合类，提供add、remove和getInterator
+迭代器，提供first、next、hasNext
